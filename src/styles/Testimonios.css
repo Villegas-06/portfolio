@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Catamaran&display=swap");
+
+.testimonio_title{
+    font-family: 'Amatic SC', cursive;
+    display:flex;
+    align-items: flex-start;
+    text-align: left;
+    justify-content: left;
+}
+
+.testimonio_subtitle{
+    font-family: 'Open Sans Condensed', sans-serif;
+    display:flex;
+    align-items: flex-start;
+    text-align: left;
+    justify-content: left;
+}
+
+
+.testimonio_bg_arrow{
+   background-color: #4bacd3;
+}
+
+.testimonio_txt{
+    opacity:0.8;
+    padding: 50px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-family: 'Shadows Into Light', cursive;
+    margin-left: 30px;
+}
+
+    

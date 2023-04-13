@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Catamaran&display=swap");
+
+.nav_text{
+    font-size: 23px;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 200px;
+}
+
+.nav_btn{
+    font-size: 18px;
+    display: flex;
+    justify-content:right;
+}
+
+.nav_colapse{
+    display: flex;
+    align-items: flex-start;
+    justify-content: left;
+}
+ .nav_li_text{
+     color: #4bacd3;
+     font-family: 'Open Sans Condensed', sans-serif;
+ }

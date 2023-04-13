@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css?family=Catamaran&display=swap");
+
+
+
+.mt{
+    margin-top: 40px;
+}
+
+.personal-profile__contact{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.personal-profile__name{
+    color:white;
+    font-size:30px;
+    font-family: 'Amatic SC', cursive;
+}
+
+.personal-profile__work{
+    color:white;
+    font-size: 20px;
+    margin-bottom: 6px;
+}
+
+.personal_profile-social{
+    color:white;
+    font-size:35px;
+}
+
+.personal_profile_links{
+    color: #fff;
+}
+
+.hero_img{
+    width: 314.98px;
+    height: 300px;
+    border-radius:6px;
+}
+
+th{
+    font-size:22px;
+    color: rgb(185, 185, 185);
+}
+
+td{
+    font-size: 22px;
+    color:white;
+    text-indent: 50px; 
+}
+
+.text{
+    color: #fff;
+}
+
+.Hero_img{
+    display: block;
+    text-align: center;
+}
+
+.Hero_i{
+    color: white;
+    font-size: 23px;
+
+}

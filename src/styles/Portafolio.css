@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Pro&display=swap');
+
+.section-title{
+    font-family: 'Amatic SC', cursive;
+}
+
+.portafolio_txt{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.project-card__img{
+    width: 314.98px;
+    height: 300px;
+    border-radius:6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-card__title{
+    font-size: 30px;
+}
+
+.project-card__info{
+    font-size:18px
+}
+
+.project-card-stack{
+    font-size:15px;
+    font-weight:bolder;
+}
+
+.ul{
+    list-style-type: none;
+}
+
+.li{
+   display: inline;
+   margin: 0 10px 0 0;
+   text-decoration: none;
+   padding: 10px;
+   font-weight: 600;
+   font-size: 15px;
+   color: black;
+   background-color: #4bacd3;
+   border-radius: 6px;
+   border: 2px solid #ffffff;
+}
