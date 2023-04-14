@@ -21,6 +21,7 @@ export class Skills extends Component {
                                 <li><span className="bar node"></span><h3>Node JS</h3></li>
                                 <li><span className="bar mysql"></span><h3>MySQL</h3></li>
                                 <li><span className="bar react"></span><h3>React JS</h3></li>
+                                <li><span className="bar php"></span><h3>React JS</h3></li>
                             </ul>
                         </div>
                     </div>   
